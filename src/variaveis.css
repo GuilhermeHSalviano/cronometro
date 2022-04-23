@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+:root{
+    --fonte-titulo: 'Orbitron', sans-serif;
+    --cinza-claro: #f0f0ef;
+    --cinza-hover: #a9aaa7;
+}
